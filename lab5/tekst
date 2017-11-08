@@ -3,7 +3,6 @@ razem 44
 -rwxr-xr-x 1 kamila kamila  100 10-17 21:43 date.sh
 -rwxr-xr-x 1 kamila kamila  452 10-17 22:39 find_getopt.sh
 -rwxr-xr-x 1 kamila kamila   60 10-17 21:43 find.sh
--rw-r--r-- 1 kamila kamila  716 11-07 17:02 Kuba-test.c
 -rwxr-xr-x 1 kamila kamila  986 11-07 16:01 lab4_1.c
 -rw-r--r-- 1 kamila kamila 2286 10-30 09:51 lab4_3b
 -rwxr-xr-x 1 kamila kamila  133 10-17 22:10 mail.sh
@@ -11,13 +10,12 @@ razem 44
 -rw-r--r-- 1 kamila kamila    0 11-07 17:03 tekst
 razem 536
 -rwxr-xr-x 1 kamila kamila   9056 11-08 00:14 a.out
--rw-r--r-- 1 kamila kamila   1474 11-07 20:47 arek.c
+-rw-r--r-- 1 kamila kamila   1474 11-07 20:47 arek.png
 -rwxr-xr-x 1 kamila kamila    100 10-17 21:43 date.sh
 -rw-r--r-- 1 kamila kamila    618 11-08 00:16 fifo.c
 -rwxr-xr-x 1 kamila kamila   8880 11-08 00:16 fifo.o
 -rwxr-xr-x 1 kamila kamila    452 10-17 22:39 find_getopt.sh
 -rwxr-xr-x 1 kamila kamila     60 10-17 21:43 find.sh
--rw-r--r-- 1 kamila kamila    716 11-07 17:02 Kuba-test.c
 -rwxr-xr-x 1 kamila kamila    986 11-07 16:01 lab4_1.c
 -rw-r--r-- 1 kamila kamila   2286 10-30 09:51 lab4_3b
 -rw-r--r-- 1 kamila kamila 473831 11-07 17:48 lenna.png
